@@ -4,3 +4,17 @@
 
 layout: home
 ---
+
+## PDF Documents
+* [Req1.pdf](pdf/Req1.pdf)
+* [Arch1.pdf](pdf/Arch1.pdf)
+* [Plan1.pdf](pdf/Plan1.pdf)
+* [Plan1.pdf](pdf/Risk1.pdf)
+* [Impl1.pdf](pdf/Impl1.pdf)
+
+## Executable JAR
+* [Releases page](https://github.com/eng1team28/game/releases)
+* [Direct download](https://github.com/eng1team28/game/releases/download/latest/HeslingtonHustle.jar)
+
+## Version control repository
+<https://github.com/eng1team28/game>
