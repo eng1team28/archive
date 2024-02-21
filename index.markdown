@@ -10,7 +10,7 @@ title: Team 28
 * [Req1.pdf](pdf/Req1.pdf)
 * [Arch1.pdf](pdf/Arch1.pdf)
 * [Plan1.pdf](pdf/Plan1.pdf)
-* [Plan1.pdf](pdf/Risk1.pdf)
+* [Risk1.pdf](pdf/Risk1.pdf)
 * [Impl1.pdf](pdf/Impl1.pdf)
 
 ## Executable JAR
