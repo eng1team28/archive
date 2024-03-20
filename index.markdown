@@ -15,7 +15,7 @@ title: Team 28
 
 ## Executable JAR
 * [Releases page](https://github.com/eng1team28/game/releases)
-* [Direct download](https://github.com/eng1team28/game/releases/download/latest/HeslingtonHustle.jar)
+* [Direct download](https://github.com/eng1team28/game/releases/latest/download/HeslingtonHustle.jar)
 
 ## Version control repository
 <https://github.com/eng1team28/game>
