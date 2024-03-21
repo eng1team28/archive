@@ -10,7 +10,7 @@ Some CRC cards we collaborated on in a meeting show how our requirements relate 
 ![Jamboard Frame 1](/images/arch1/CRC1%201.png)
 
 The CRC cards were subsequently rearranged and simplified to make the next stage easier
-![Jamboard Frame 3](/images/arch1/CRC0%201.png)
+![Jamboard Frame 3](/images/arch1/CRC0%202.png)
 
 The relation between classes was defined, allowing for the class model to be created
 ![Jamboard Frame 2](/images/arch1/CRC1%202.png)
